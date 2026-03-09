@@ -2,3 +2,10 @@
 # Objetivo 
 
 Que los estudiantes comprendan el uso de expresiones LINQ y expresiones Lambda en C# mediante investigación y resolución de problemas prácticos, aplicando buenas prácticas de trabajo con repositorios Git.
+
+## Grupo 6 👨‍💻
+María Guadalupe Canjura Díaz: guadalupe-a11y 
+Mallerli Yamileth Ventura Escobar: yamileth30-escobar 
+José Angel Gutierrez cortez: JAGC60 
+Luis Ángel Escobar Leiva: Luisescobar123
+Noe Steve Mejía Hernandez: Steve11xx
